@@ -1,8 +1,5 @@
 package passo3.condicoescompostas
 
-import java.sql.Date
-import java.sql.Time
-
 fun main() {
     val joKenPo = arrayOf("Pedra", "Papel", "Tesoura")
 
