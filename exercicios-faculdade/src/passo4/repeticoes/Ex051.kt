@@ -1,7 +1,5 @@
 package passo4.repeticoes
 
-import kotlin.math.min
-
 fun main() {
 
     val precosProdutos = mutableListOf<Double>()
